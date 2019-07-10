@@ -9,8 +9,8 @@ cood be done with "analyser" script. It relies on "ExtractMsg" library, works wi
 .eml is in todo list. 
 
 # Install on Ubuntu
- apt-get install python3-setuptools \n
- sudo easy_install3 pip \n
- sudo apt-get install python3-dev \n
- sudo apt-get install libkrb5-dev \n
- sudo pip3 install exchangelib \n
+ apt-get install python3-setuptools  
+ sudo easy_install3 pip  
+ sudo apt-get install python3-dev  
+ sudo apt-get install libkrb5-dev  
+ sudo pip3 install exchangelib
