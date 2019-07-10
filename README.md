@@ -6,7 +6,8 @@ phishme_save will go and grab all attachments from o365 mailbox. Saves mail to .
 
 # get URLs from phish emails
 cood be done with "analyser" script. It relies on "ExtractMsg" library, works with .msg format (not .eml!) so Windows only.
-.eml is in todo list. 
+.eml is in todo list.  
+Both scripts generate detailed log files and summary file (data.csv)
 
 # Install on Ubuntu
  apt-get install python3-setuptools  
